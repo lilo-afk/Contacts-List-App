@@ -10,11 +10,11 @@
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/lilo-afk/Contacts-App)
-![GitHub Repo stars](https://img.shields.io/github/stars/lilo-afk/Python-Data-Structures)
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/lilo-afk/Contacts-App?color=orange)
+![GitHub repo size](https://img.shields.io/github/repo-size/lilo-afk/Contacts-List-App)
+![GitHub Repo stars](https://img.shields.io/github/stars/lilo-afk/Contacts-List-App)
+![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/lilo-afk/Contacts-List-App?color=orange)
 
-![GitHub](https://img.shields.io/github/license/lilo-afk/Contacts-App?color=yellow)
+![GitHub](https://img.shields.io/github/license/lilo-afk/Contacts-List-App?color=yellow)
 
 </div>
 
