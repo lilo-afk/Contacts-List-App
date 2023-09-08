@@ -24,7 +24,7 @@
 
 ## 🖥️ Preview
 
-<video src="./.github/AppPreview.mp4" height="450px"></video>
+<image src="./.github/image-preview.png" height="450px"></image>
 
 ## 👨‍💻 Sobre
 
